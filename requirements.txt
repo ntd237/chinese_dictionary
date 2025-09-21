@@ -1,0 +1,28 @@
+# Ứng dụng tra cứu từ Hán Việt - Dependencies
+# Phiên bản Python yêu cầu: 3.10+
+
+# Giao diện người dùng web
+gradio==4.44.0
+
+# Xử lý phiên âm Pinyin từ chữ Hán
+pypinyin==0.51.0
+
+# HTTP requests cho API calls
+requests==2.31.0
+
+# Fallback translation library
+googletrans==4.0.0rc1
+
+# Typing extensions cho Python < 3.10 compatibility (tùy chọn)
+typing-extensions==4.8.0
+
+# Logging và utilities
+colorlog==6.8.2
+
+# Testing (development)
+pytest==7.4.4
+pytest-asyncio==0.23.2
+
+# Linting và formatting (development)
+black==23.12.1
+flake8==6.1.0
