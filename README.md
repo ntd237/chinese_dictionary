@@ -62,7 +62,7 @@ chinese_dictionary/
 ### Bước 1: Clone repository
 
 ```bash
-git clone https://github.com/ntd237/chinese_dictionary
+git clone https://github.com/ntd237/chinese_dictionary.git
 cd chinese_dictionary
 ```
 
